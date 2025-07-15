@@ -3,7 +3,7 @@
     This project demonstrates how to create and verify a digital signature using Java’s built-in cryptographic libraries with DSA and SHA-256.
 📝 Description
 
-    The application:
+The application:
 
     Generates a public-private key pair.
 
